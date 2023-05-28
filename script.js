@@ -1,0 +1,1 @@
+deocument.body.innerHTML='h js';
